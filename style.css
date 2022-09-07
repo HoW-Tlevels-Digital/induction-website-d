@@ -1,0 +1,192 @@
+.parry{
+/* Parry */
+
+
+position: absolute;
+width: 85px;
+height: 37px;
+left: 470px;
+top: 41px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #008AFA;
+}
+
+.workshop{
+	/* workshop */
+
+
+	position: absolute;
+	width: 137px;
+	height: 34px;
+	left: 560px;
+	top: 44px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 28px;
+	line-height: 34px;
+
+	color: #FFFFFF;
+}
+.imageheader{
+	position: absolute;
+	width: 1920px;
+	height: 686px;
+	left: 0px;
+	top: 0px;
+
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(img/headerimg.png);
+}
+.mainheader{
+	/* Parry’s Workshop */
+
+
+	position: absolute;
+	width: 654px;
+	height: 88px;
+	left: 633px;
+	top: 269px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 72px;
+	line-height: 88px;
+	/* identical to box height */
+
+
+	color: #FFFFFF;
+}
+.header2{
+	/* The workshop of knowledge */
+
+
+	position: absolute;
+	width: 691px;
+	height: 59px;
+	left: 614px;
+	top: 357px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 48px;
+	line-height: 59px;
+	/* identical to box height */
+
+
+	color: #FFFFFF;
+}
+.headeroption1{
+	/* Home */
+
+
+	position: absolute;
+	width: 51px;
+	height: 20px;
+	left: 953px;
+	top: 50px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 28px;
+	/* identical to box height */
+
+
+	color: #FFFFFF;
+}
+.headeroption2{
+/* About us */
+
+
+	position: absolute;
+	width: 75px;
+	height: 20px;
+	left: 1037px;
+	top: 50px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 28px;
+	/* identical to box height */
+
+
+	color: #FFFFFF;
+
+}
+
+.headeroption3{
+	/* Gallery */
+
+
+	position: absolute;
+	width: 580px;
+	height: 200px;
+	left: 1150px;
+	top: 55px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 20px;
+	/* identical to box height */
+
+
+	color: #FFFFFF;
+}
+.headeroption4{
+	/* Gallery */
+
+
+	position: absolute;
+	width: 58px;
+	height: 20px;
+	left: 1267px;
+	top: 55px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 20px;
+	/* identical to box height */
+
+
+	color: #FFFFFF;
+
+}
+.headeroption5{
+	/* Experience */
+
+
+	position: absolute;
+	width: 92px;
+	height: 20px;
+	left: 1358px;
+	top: 55px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 20px;
+	/* identical to box height */
+
+
+	color: #FFFFFF;
+
+}
